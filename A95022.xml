@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copie of the master-piece of all those petitions which have formerly beene presented by the major, aldermen, and the rest of the Common Counsell of the Citie of London. Being, two petitions; the first whereof was presented to the honourable House of Peeres now assembled in Parliament; with a certificate of the major, aldermen, and the rest of the Common Counsell of the Citie of London. The other petition, was likewise presented to the honourable House of Commons now assembled in Parliament; with their humble answer, and reasons thereof to the message which the honourable House sent to them upon Saturday, being the 22. of this instant Ianuary. These two petitions were presented the 25. of this instant January 1642. to the honourable assembly of both Houses, by the committee of aldermen and common counsell-men, selected for martiall affaires.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95022</idno>
+            <idno type="STC">Wing T2650</idno>
+            <idno type="STC">Thomason E134_7</idno>
+            <idno type="STC">ESTC R11513</idno>
+            <idno type="EEBO-CITATION">99859056</idno>
+            <idno type="PROQUEST">99859056</idno>
+            <idno type="VID">111117</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111117)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E134[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copie of the master-piece of all those petitions which have formerly beene presented by the major, aldermen, and the rest of the Common Counsell of the Citie of London. Being, two petitions; the first whereof was presented to the honourable House of Peeres now assembled in Parliament; with a certificate of the major, aldermen, and the rest of the Common Counsell of the Citie of London. The other petition, was likewise presented to the honourable House of Commons now assembled in Parliament; with their humble answer, and reasons thereof to the message which the honourable House sent to them upon Saturday, being the 22. of this instant Ianuary. These two petitions were presented the 25. of this instant January 1642. to the honourable assembly of both Houses, by the committee of aldermen and common counsell-men, selected for martiall affaires.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>by R. Olton. and G. Dext er. for J.B.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>An. Dom. 1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Petition is concerned with the means of suppressing the rebellion in Ireland, the disarming of papists, etc.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111117:1"/>
+            <!-- PDF PAGE 70 -->
+            <pb facs="tcp:111117:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <p>
+               <hi>A true</hi> COPIE OF THE MASTER-PIECE Of all thoſe PETITIONS which have formerly beene preſented by the <hi>Major, Alder<g ref="char:EOLhyphen"/>men,</hi> and the reſt of the <hi>Common Counſell</hi> of the <hi>Citie</hi> of LONDON.</p>
+            <p>BEING, TWO PETITIONS; The firſt whereof was preſented to the Honourable <hi>Houſe</hi> of PEERES now aſſembled in <hi>Parliament;</hi> with a Certificate of the <hi>Major, Aldermen,</hi> and the reſt of the <hi>Com<g ref="char:EOLhyphen"/>mon Counſell</hi> of the <hi>Citie of</hi> LONDON.</p>
+            <p>THE OTHER PETITION, was likewiſe preſented to the Honourable <hi>Houſe</hi> of <hi>Commons</hi> now aſſembled in <hi>Parliament;</hi> with their humble <hi>Anſwer,</hi> and <hi>Reaſons</hi> thereof to the <hi>Meſſage</hi> which the Honourable <hi>Houſe</hi> ſent to them upon <hi>Saturday,</hi> being the 22. of this inſtant <hi>Ianuary.</hi>
+            </p>
+            <p>Theſe two PETITIONS were preſented the 25. of this inſtant <hi>January</hi> 1642. to the Honourable <hi>Aſſembly</hi> of both HOUSES, by the <hi>Committee</hi> of <hi>Aldermen</hi> and <hi>Common Counſell-Men,</hi> ſelected for <hi>Martiall</hi> AFFAIRES.</p>
+            <p>Printed at LONDON by <hi>R. Olton.</hi> and <hi>G. Dexter.</hi> for <hi>J. B. An. Dom.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:111117:2"/>
+            <!-- PDF PAGE 71 -->
+            <head>
+               <figure>
+                  <q>HONI SOIT <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb n="1" facs="tcp:111117:2"/>
+            <!-- PDF PAGE 71 -->
+            <head>TO THE RIGHT HONOURABLE THE HOVSE OF PEERS, now aſſembled in <hi>PARLIAMENT.</hi>
+            </head>
+            <head type="sub">The humble Petition and Certificate of the Major, Aldermen, and the reſt of the Common Councell of the Citie of <hi>LONDON.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat in obedience to an Order of this Honourable <hi>Houſe,</hi> the Petitioners doe humbly preſent a Certificate hereto annexed, importing, That the Conti<g ref="char:EOLhyphen"/>nuance of Sir JOHN BIRON in the Office of Lievtenant of the <hi>Tower</hi> is the Cauſe of forbearance of bringing Bullion to the Mint. And becauſe that divers other Forts and Strengths of this Kingdome by Land and Sea are not placed in ſuch hands, in whom the <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> may confide (with which and no other this City (as the Petitioners humbly conceive) will reſt ſatisfied, and ſuch ſupplies have not beene timely ſent unto <hi>Jre<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="2" facs="tcp:111117:3"/>
+               <!-- PDF PAGE 72 -->with full Commiſſions as were neceſſary to with<g ref="char:EOLhyphen"/>ſtand and ſuppreſſe the power and r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge of the Rebels there; but that the Kingdome is in great danger to bee loſt, and this Kingdome alſo very much prejudiced and hazarded thereby, and all this by reaſon of the many ſad and ominous obſtructions of timely and wholſome proviſions of Parliament ſo often deſired againſt theſe growing evils which threaten the deſtruction of all.</p>
+            <p>That the Petitioners have already lent divers great ſumms of money at the requeſt of your Lop<hi rend="sup">s</hi> before the Parliament, and of the Parliament ſince the Calling thereof, beyond all Preſident, for the ſervice of the King and Kingdome (A great part whereof they were conſtrained to borrow, and cannot to this day repay, by reaſon that they are not yet reimburſed of the ſaid Mo<g ref="char:EOLhyphen"/>neys) And now they are further importuned by a Com<g ref="char:EOLhyphen"/>mittee of the Honourable <hi>Houſe</hi> of Commons to lend 100000 <hi>l.</hi> more for the ſupplies of <hi>Jreland,</hi> which they are neither able nor willing to doe, till they ſhall have received the Moneys already lent, or that the obſtru<g ref="char:EOLhyphen"/>ctions, (which they ſhall ſpeedily repreſent more at large to that Honourable <hi>Houſe</hi> by way of anſwere to their ſaid laſt requeſt) be removed.</p>
+            <p>Beſides all which preſſures under which they groan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and languiſh, they cannot but repreſent further to your Lordſhips, that very many thouſands of Clothiers and Handicrafts men and their Families, who have their dependance for their liveli-hood upon this City, doe dayly more and more make ſad mones and lamentable cryes that they are no way able any longer to ſubſiſt, becauſe the Petitioners and others do not buy off their wares as formerly they did; That the Petitioners can<g ref="char:EOLhyphen"/>not
+<pb n="3" facs="tcp:111117:3"/>
+               <!-- PDF PAGE 72 -->ſo do till Trade be quick<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ly reliefe of <hi>Ireland,</hi> till Papi<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s be fully di<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd the ſtrength of the Kingdome by Land and Sea <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>into the hands of ſuch as the <hi>Parliament</hi> may confide i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, through want whereof the Trade of the Kingdome is <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allen to ſo low an ebb, that the Petitioners are not able longer to proceed therein as formerly: Which neceſſitated for<g ref="char:EOLhyphen"/>bearance of Trade and ſcarcity of money, will (as they verily believe) in very ſhort time caſt innumerable multitudes of thoſe poore men into ſuch a depth of po<g ref="char:EOLhyphen"/>verty and extremitie, as will in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orce them upon ſome dangerous and deſperat attempts not fit to be expreſſed, much leſſe juſtified, which they have held their duty to intimate, and ſo to leave it to the wiſdome of this moſt Honourable <hi>Houſe</hi> to conſider and prevent.</p>
+            <p>The Petitioners humbly pray, That there may be a ſpeedy and effectuall courſe taken for relieving of blee<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng <hi>IRELAND;</hi> for removing all diſtractions, and feares at home, by diſarming of Papiſts, by putting the Forts and ſtrength of this Kingdome by land and Sea into ſafe hands as the <hi>Parl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>ſhall confide in, and by the ſpeedy paſſing of Bills conceived by the <hi>Houſe</hi> of <hi>Commons</hi> and ſent up to your Lordſhips for the generall good of the King and Kingdome; whereby the former Courſe of Trade may be opened, and the Petitioners enabled and encoura<g ref="char:EOLhyphen"/>ged to take off the wares, ſtop the cryes, and relieve the miſe<g ref="char:EOLhyphen"/>ries of ſo many thouſands of poore people, that otherwiſe threa<g ref="char:EOLhyphen"/>ten too plainly the tranſgreſſion of their Duty in ſuch dangerous wayes as may diſturbe the publike peace, and hazard the Ho<g ref="char:EOLhyphen"/>nour and ſafety of the King, Parliament, and Kingdome.</p>
+            <closer>And they ſhall dayly pray, &amp;c.</closer>
+         </div>
+         <div type="peitition">
+            <pb facs="tcp:111117:4"/>
+            <!-- PDF PAGE 73 -->
+            <head>
+               <figure>
+                  <figDesc>blazon of the City of London</figDesc>
+               </figure>
+               <figure>
+                  <p>VNHABILITYE</p>
+                  <p>ANGVYSHE</p>
+                  <p>THANCKFVLN<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </p>
+                  <p>GRIEFFE</p>
+                  <p>GOOD WYL</p>
+                  <p>HOPE</p>
+               </figure>
+            </head>
+            <pb n="4" facs="tcp:111117:4"/>
+            <!-- PDF PAGE 73 -->
+            <head>TO THE HONOURABLE THE <hi>KNIGHTS, CITIZENS</hi> and <hi>B<g ref="char:V">Ʋ</g>RGESSES,</hi> of the Houſe of COMMONS aſſembled in PARLIAMENT.</head>
+            <head type="sub">The humble Petition and Anſwer of the Major, Aldermen, and the reſt of the Common Councell of the Citie of <hi>LONDON.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat the Committee of this Honourable Houſe upon Saturday the 22. of this inſtant <hi>Ianuary,</hi> ſent a meſſage to the Petitioners for the loane of one hundred thouſand pounds, or of ſo much thereof as could conveniently be forthwith raiſed for levy<g ref="char:EOLhyphen"/>ing of forces to ſuppreſſe the Rebells in <hi>Ireland;</hi> To which Meſſage ſomething was then anſwered, and a further anſwer in writing promiſed.</p>
+            <p>
+               <pb n="5" facs="tcp:111117:5"/>
+               <!-- PDF PAGE 74 -->
+In performance whereof they humbly preſent the anſwer following, together with the Reaſons thereof, deſiring that the ſame (being the beſt that for the preſent they are able to give) may fa<g ref="char:EOLhyphen"/>vourably be accepted.</p>
+            <closer>
+               <signed>
+                  <hi>And they ſhall ever pray,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="reply_to_petition">
+            <head>The Anſwer.</head>
+            <p>THe Petitioners are duely and deeply ſenſible of the great miſeries of their Brethren in <hi>Ireland,</hi> and of the eminent danger, not onely of the to<g ref="char:EOLhyphen"/>tall loſſe of that Kingdome, but of the ruine of this alſo, if that of <hi>Ireland</hi> ſhould (which God forbid) be loſt. And as they have hitherto ſhewed themſelves ready, even beyond their abilities to ſerve the King and <hi>Parlia<g ref="char:EOLhyphen"/>ment;</hi> ſo ſhall they ever continue to the utmoſt of their power, with all cheerefulnes and duty. But at the pre<g ref="char:EOLhyphen"/>ſent they are compelled to repea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their former <hi>Anſwer;</hi> That they have no power to raiſe any Summes by way of Tax for any forreigne uſe; and doe further anſwer that they have no meanes to doe it, otherwiſe then by the immediate perſonall Conſent of every particular Lender, which they cannot hope to obtaine in regard of theſe obſtructions following: Which the Petitioners humbly preſent, together with this their further An<g ref="char:EOLhyphen"/>ſwere, as the Reaſons thereof.</p>
+            <p n="1">1. That immediately before the <hi>Parliament</hi> and ſi<g ref="char:EOLhyphen"/>thence divers great Summes for the ſervice of the King and Kingdome have beene already lent by the Citizens
+<pb n="5" facs="tcp:111117:5"/>
+               <!-- PDF PAGE 74 -->of <hi>London,</hi> beſides 50000. <hi>l.</hi> for the ſupply of <hi>Ireland,</hi> in particular; a great part whereof ſome of the Lenders were compelled to borrow, and cannot to this day repay.</p>
+            <p n="2">2. That ſuch part of thoſe moneyes as are already due to the Citizens from the <hi>Parliament,</hi> and ſhould have bin repaid out of the <hi>Pole-moneyes</hi> and <hi>Subſidies,</hi> is not yet done, becauſe there is not any conſiderable ſumme come in from the Countrey as was expected to ſatisfie the ſame.</p>
+            <p n="3">3. That the ſaid 50000 l. lent for <hi>Ireland</hi> was haſtened and ſpeedily paid within neare about 2000 <hi>l.</hi> upon this ground then urged by the <hi>Parliament;</hi> that if it were forthwith lent, it might be of more uſe to preſerve that Kingdome then the lone of 200000 l. could be, if defer<g ref="char:EOLhyphen"/>red but ſix Weeks; yet no conſiderable Forces are ſent thither to this day. And we find that men will not be willing to lend any thing till they be aſſured that a good ſtrength be ſent thither with full Commiſſion to relieve <hi>London-Derry</hi> and other parts of that Kingdome.</p>
+            <p n="4">4. The generall withholding of very great Summes of money from the Petitioners, and many others, which moneys have beene long due, not onely from <hi>Chapmen</hi> and other debtors in <hi>England;</hi> but from very many in <hi>Ireland</hi> (who owe many hundred Thouſands of Pounds to the Citizens of <hi>London</hi>) doth render divers perſons of good, Eſtates and credit hardly able to goe on with Trade; or to pay their debts and maintain their Charge.</p>
+            <p n="5">5. The Brotherly offer of <hi>Scotland</hi> to ſend 10000 men into <hi>Jreland,</hi> not yet ſo accepted as to produce any re<g ref="char:EOLhyphen"/>liefe to that bleeding Kingdome, while yet our Bre<g ref="char:EOLhyphen"/>thren are dayly maſſacred there, diſcourageth moſt men from lending any Money, were they never ſo able.</p>
+            <p n="6">
+               <pb n="6" facs="tcp:111117:6"/>
+               <!-- PDF PAGE 75 -->
+6. The not paſſing the Bil for preſſing of ſoldiers here, whereby ſuch forces as are requiſit might be timely ſent from hence into <hi>Ireland,</hi> puts many men into feares, that there may be ſome deſigne rather to loſe that Kingdom, and to conſume this in the loſing of <hi>Ireland,</hi> than to pre<g ref="char:EOLhyphen"/>ſerve either the one or the other; for that it cannot be conceived, that the Rebells (being growne ſo power<g ref="char:EOLhyphen"/>full) will be ſuppreſſed by volunteires.</p>
+            <p n="7">7. The ſlow iſſuing of Commiſſions to thoſe who be<g ref="char:EOLhyphen"/>ing in <hi>Ireland,</hi> or going thither, are willing to enter the field againſt the Rebells, diſables them from doing any effectuall execution upon the enemy, unleſſe in their owne defence; and ſo all the monies that have beene, or may be ſent thither, are exhauſted to maintaine our forces to doe little or nothing worthy of them, rather then imployed to chaſtiſe the Rebells, and to reduce them to obedience, by meanes whereof the number and power of the Rebels are greatly encreaſed, divers caſtles and townes are by them taken, much Proteſtant blood is daily ſpilt, many thouſand families deſtroyed, the ma<g ref="char:EOLhyphen"/>lignant part of Papiſts and their adherents here are en<g ref="char:EOLhyphen"/>couraged, and thoſe Rebells ſo much in boldened, that they boaſt, they will extirpate the Britiſh Nation there, and then make <hi>England</hi> the ſeat of warre.</p>
+            <p n="8">8. The not diſarming of Papiſts here in <hi>England,</hi> af<g ref="char:EOLhyphen"/>ter many diſcoveries of their treacheries, and bloody deſignes upon the Parliament and Kingdome, the great decays of Fortifications, Blockhouſes &amp; other Sea-forts, the not managing of them, nor furniſhing them with Ordinance and Ammunition, the not placing all of them in ſuch hands in whom the Parliament may confide, and the not ſettling this Kingdome in a poſture of defence, in times of ſo many feares and jealouſies of forreigne
+<pb n="7" facs="tcp:111117:6"/>
+               <!-- PDF PAGE 75 -->invaſions and inteſtine conſpiracies, the not removing the preſent Lievtenant of the Tower, and putting ſuch a perſon into that place, as may be well approved by the Parliament, notwithſtanding the earneſt petitions ex<g ref="char:EOLhyphen"/>hibited to this honorable Houſe for that purpoſe, which hath produced a forbearance to bring <hi>Bullion</hi> into the Tower in this time of ſcarcitie of monies; all which cannot but overthow trading more and more, and make monies yet more ſcarce in the City and Kingdome.</p>
+            <p n="9">9. The Kings Ships which ought to be a wall of de<g ref="char:EOLhyphen"/>fence to this Kingdome, and a convay to the Merchants (for which Tonnage and Poundage was granted) are not fitted and imployed, as the preſent condition of this Kingdome and <hi>Ireland</hi> requires, but ſome of them for the conveying away of Delinquents, who durſt not a<g ref="char:EOLhyphen"/>bide the teſt of the Parliament, to the great encourage<g ref="char:EOLhyphen"/>ment of the reſt of the malignant party here, who when their deſignes and themſelves be detected, know how to eſcape the hand of Iuſtice through the abuſe of a Roy<g ref="char:EOLhyphen"/>all conduct.</p>
+            <p n="10">10. The not queſtioning thoſe many thouſands of unknown perſons, who are ſheltered in <hi>Covengarden,</hi> and thereabouts, which doe not imploy themſelves in any lawfull calling, and it's very probable, lye in a readineſſe to adventure upon ſome deſperate attempt, to the en<g ref="char:EOLhyphen"/>dangering of the welfare, peace and ſafety of the Kings Majeſtie, Parliament and Citie.</p>
+            <p n="11">11. The miſunderſtanding betweene the King and Parliament, the not vindicating the priviledges of Par<g ref="char:EOLhyphen"/>liament, the not ſuppreſſing of Protections, the not pu<g ref="char:EOLhyphen"/>niſhing of Delinquents, and the not executing of all Prieſts and Ieſuites, legally condemned, while others contrary to priviledge of Parliament have beene ille<g ref="char:EOLhyphen"/>gally
+<pb n="8" facs="tcp:111117:7"/>
+               <!-- PDF PAGE 76 -->(as the Petitioners conceive) charged with Treaſon, to the deterring of worthy Members from diſcharging their duties, and to the deſtroying of the very being of Parliaments, doe exceedingly fill the mindes of men well affected to the publike, with many feares and diſcouragements throughout the Kingdome, and ſo diſable them from that cheerfull aſſiſtance which they would be glad to afford.</p>
+            <p n="12">12. By meanes of the Premiſſes there is ſuch decay of trading, and ſuch ſcarcity of money (neither of which can be cured, till the former Evills be removed) as it is likely in very ſhort time, to caſt innumerable multitudes of poore Artificers into ſuch a depth of povertie and extremitie, as may enforce them upon ſome dangerous and deſperate attempts, not fit to be expreſſed, much leſſe to be juſtified: which they leave to the wiſdome of this Houſe ſpeedily to conſider and prevent.</p>
+            <p>Theſe are the Evils under which the Petitioners doe exceedingly la<g ref="char:EOLhyphen"/>bour and languiſh, which they humbly conceive to have ſprung from the imploying of ill affected perſons in places of Truſt and Ho<g ref="char:EOLhyphen"/>nour in the State, and neere to the ſacred perſon of his Majeſtie; and that theſe Evils are ſtill continued by meanes of the Votes of Biſhops and Popiſh Lords in the Houſe of Peeres.</p>
+            <p>And now, that the Petitioners have faithfully repreſented the true Rea<g ref="char:EOLhyphen"/>ſons which doe really enforce them to returne this anſwer, moſt of which have beene formerly offered to this Honourable Houſe in ſundry Petitions; and that they have done all that in them lies (even beyond all preſident) to ſerve the King, Parliament and Kingdome; They humbly crave leave to proteſt before God and the high Court of Parliament, that if any further miſeries befall their deare brethren in <hi>Ireland,</hi> or if any miſchiefe ſhall breake in upon this Kingdome, to the endangering or diſturbing thereof, it ought not to be imputed to the Petitioners, but only to ſuch as ſhall endea<g ref="char:EOLhyphen"/>vour to hinder the effectuall and ſpeedy cure of the evills before recited, that ſo much diſable and diſcourage the Petitioners from doing that which by this honourable Houſe is deſired of them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
